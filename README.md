@@ -1,1 +1,1 @@
-# test-async-code-with-junit-demo
+# test-async-code-with-junit-demo [![Build Status](https://travis-ci.org/Frederick-S/test-async-code-with-junit-demo.svg?branch=master)](https://travis-ci.org/Frederick-S/test-async-code-with-junit-demo)
